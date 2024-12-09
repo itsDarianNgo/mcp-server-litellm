@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mcp-server-litellm.iml" filepath="$PROJECT_DIR$/.idea/mcp-server-litellm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/server-litellm.iml" filepath="$PROJECT_DIR$/.idea/server-litellm.iml" />
     </modules>
   </component>
 </project>
